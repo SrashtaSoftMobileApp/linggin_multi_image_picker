@@ -44,3 +44,6 @@ Feel free to propose a PR to improve the package
 ## License
 
 MIT
+
+## Flutter version
+2.10.5
